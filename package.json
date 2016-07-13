@@ -1,0 +1,29 @@
+{
+  "name": "mongodbexample",
+  "version": "1.0.0",
+  "description": "Just a simple app for my records and to learn mongodb.",
+  "main": "snippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzamazing/mongodbexample.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzamazing/mongodbexample/issues"
+  },
+  "homepage": "https://github.com/jayzamazing/mongodbexample#readme",
+  "dependencies": {
+    "mongodb": "^2.2.1"
+  }
+}
